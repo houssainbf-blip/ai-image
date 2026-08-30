@@ -1,4 +1,4 @@
-name = "game-image-generator-precise"
+name = "ai-image"
 main = "game-image-generator-precise-worker.js"
 compatibility_date = "2024-11-01"
 
