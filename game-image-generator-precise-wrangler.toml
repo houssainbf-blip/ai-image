@@ -1,0 +1,7 @@
+name = "game-image-generator-precise"
+main = "game-image-generator-precise-worker.js"
+compatibility_date = "2024-11-01"
+
+# ربط خدمة Workers AI (توليد الصور بنموذج FLUX.2 dev الأدق) - مجانية داخل حساب Cloudflare
+[ai]
+binding = "AI"
